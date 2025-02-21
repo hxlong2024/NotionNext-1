@@ -65,14 +65,7 @@ const BLOG = {
     'Hi，我是一个程序员, Hi，我是一个打工人,Hi，我是一个干饭人,欢迎来到我的博客🎉',
 
   // uuid重定向至 slug
-  UUID_REDIRECT: process.env.UUID_REDIRECT || false,
-
-  // 樱花飘落特效
-SAKURA: process.env.NEXT_PUBLIC_SAKURA || true, // 开关
-  // 鼠标点击烟花特效
-FIREWORKS: process.env.NEXT_PUBLIC_FIREWORKS || false, // 开关
-// 烟花色彩，感谢 https://github.com/Vixcity 提交的色彩
-FIREWORKS_COLOR: ['255, 20, 97', '24, 255, 146', '90, 135, 255', '251, 243, 140']
+  UUID_REDIRECT: process.env.UUID_REDIRECT || false
 }
 
 module.exports = BLOG
