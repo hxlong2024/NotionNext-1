@@ -66,6 +66,9 @@ const BLOG = {
 
   // uuid重定向至 slug
   UUID_REDIRECT: process.env.UUID_REDIRECT || false
+
+  // 樱花飘落特效
+SAKURA: process.env.NEXT_PUBLIC_SAKURA || true, // 开关
 }
 
 module.exports = BLOG
