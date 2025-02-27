@@ -33,10 +33,8 @@ const Footer = ({ siteInfo }) => {
 
 
       <span className='hidden busuanzi_container_site_pv'>
-        <span className='px-1 busuanzi_value_site_pv'> </span>{' '}
       </span>
       <span className='pl-2 hidden busuanzi_container_site_uv'>
-        <span className='px-1 busuanzi_value_site_uv'> </span>{' '}
       </span>
 
 
