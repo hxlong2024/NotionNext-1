@@ -1,4 +1,5 @@
-# 帮助教程12345678
+# 帮助教程1
+
 
 访问帮助：[NotionNext帮助手册](https://docs.tangly1024.com/)
 
