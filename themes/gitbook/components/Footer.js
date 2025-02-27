@@ -41,8 +41,7 @@ const Footer = ({ siteInfo }) => {
         <span className='px-1 busuanzi_value_site_uv'> </span>{' '}
       </span>
 
-      {/* SEO title */}
-      <h1 className='pt-1 hidden'>{siteConfig('TITLE')}</h1>
+
     </footer>
   )
 }
