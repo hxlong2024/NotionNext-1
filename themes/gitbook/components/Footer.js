@@ -32,10 +32,7 @@ const Footer = ({ siteInfo }) => {
 
 
 
-      <span className='hidden busuanzi_container_site_pv'>
-      </span>
-      <span className='pl-2 hidden busuanzi_container_site_uv'>
-      </span>
+
 
 
     </footer>
