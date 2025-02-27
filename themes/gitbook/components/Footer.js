@@ -30,16 +30,7 @@ const Footer = ({ siteInfo }) => {
         © {`${copyrightDate}`}
       </div>
 
-      {siteConfig('BEI_AN') && (
-        <>
-          <i className='fas fa-shield-alt' />{' '}
-          <a href='https://beian.miit.gov.cn/' className='mr-2'>
-            {siteConfig('BEI_AN')}
-          </a>
-          <BeiAnGongAn />
-          <br />
-        </>
-      )}
+
 
       <span className='hidden busuanzi_container_site_pv'>
         <i className='fas fa-eye' />
